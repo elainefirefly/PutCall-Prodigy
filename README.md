@@ -10,11 +10,17 @@ Simplifies and Gamifies options trading. Educates equities traders in the bare f
 
 ![PCP 1](https://media.giphy.com/media/LUD6a0NCOIIxi/giphy.gif)
 
-## Simplification and Gamification
+## Simplification
 ![PCP 1](https://github.com/elainefirefly/pcp/blob/master/Screen%20Shot%202017-07-18%20at%203.15.30%20PM.png)
+
+## Gamification
+![PCP 1](https://media.giphy.com/media/ojJmWYAs74CLS/giphy.gif)
 
 ## Education
 ![PCP 1](https://media.giphy.com/media/wHXZVDmofu4gg/giphy.gif)
+
+
+
 
 
 
