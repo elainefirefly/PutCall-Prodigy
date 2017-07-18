@@ -17,11 +17,11 @@ Put Call Prodigy  aims to simplify and gamify options trading. Educates equities
 Educational option trading platforms are often to complex for newcomers to understand. We saw an opportunity to introduce our users to a simplified educational platform where they will not be intimidated by the introduction of complex topics
 
 ## Simplification
-![PCP 1](https://media.giphy.com/media/wHXZVDmofu4gg/giphy.gif)
+![PCP 1](https://media.giphy.com/media/wHXZVDmofu4gg/giphy.gif)  
 To simplify the educational presentation, we limited the amount of underlying assets in our options contracts, eliminated portfolio building and did not include option premiums for ease of understanding.
 
 ## Gamification
-![PCP 1](https://media.giphy.com/media/ojJmWYAs74CLS/giphy.gif)
+![PCP 1](https://media.giphy.com/media/ojJmWYAs74CLS/giphy.gif)  
 To gamify options trading we reduced the time intervals of options contracts to be under 1 hour to provide instintaneous feedback
 
 ## Education
