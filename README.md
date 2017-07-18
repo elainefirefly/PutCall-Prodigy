@@ -1,6 +1,6 @@
 ![PCP 1](https://github.com/elainefirefly/pcp/blob/master/Screen%20Shot%202017-07-11%20at%204.19.27%20PM.png)
 
-## The Team:
+## The Team
 1. Joanna Joseph
 2. Peter Mueller
 3. Joe Hiner
