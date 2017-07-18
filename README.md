@@ -28,7 +28,7 @@ To gamify options trading we reduced the time intervals of options contracts to 
 ![PCP 1](https://github.com/elainefirefly/pcp/blob/master/Screen%20Shot%202017-07-18%20at%203.15.30%20PM.png)
 
 ## Payoff
-![PCP 1](https://media.giphy.com/media/wHXZVDmofu4gg/giphy.gif)
+![PCP 1](https://media.giphy.com/media/K2PBsjRu54YRa/giphy.gif)
 
 
 
