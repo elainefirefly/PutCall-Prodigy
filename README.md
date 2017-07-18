@@ -4,15 +4,20 @@ Simplifies and Gamifies options trading. Educates equities traders in the bare f
 
 ![PCP 1](https://media.giphy.com/media/LUD6a0NCOIIxi/giphy.gif)
 
+
+
 ## Simplification and Gamification
-* Underlying assets
-* Portfolio building
-* Option premiums
-* Auto-exercise
-* Education
+## Education
+
+
 
 ![PCP 1](https://media.giphy.com/media/wHXZVDmofu4gg/giphy.gif)
 
+## The Team:
+1. Joanna Joseph
+2. Peter Mueller
+3. Joe Hiner
+4. Tim Parkyn
 
 
 
