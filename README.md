@@ -1,4 +1,4 @@
-![PCP 1](https://github.com/elainefirefly/pcp/blob/master/Screen%20Shot%202017-07-11%20at%204.19.27%20PM.png =200x)
+![PCP Logo](https://github.com/elainefirefly/pcp/blob/master/Screen%20Shot%202017-07-11%20at%204.19.27%20PM.png =300x)
 
 ## Objective
 Put Call Prodigy  aims to simplify and gamify options trading. Educates equities traders in the bare function of options contracts, incrementally advancing the complexity of technical indicators offered and options strategies.
@@ -17,7 +17,7 @@ Educational option trading platforms are often to complex for newcomers to under
 ![PCP !](https://media.giphy.com/media/IZuw52ndvmZji/giphy.gif)  
 
 
-![PCP 1](https://media.giphy.com/media/LUD6a0NCOIIxi/giphy.gif)
+![PCP 1](https://media.giphy.com/media/PJFVFhD3LVcfC/giphy.gif)
 
 
 ## Simplification
