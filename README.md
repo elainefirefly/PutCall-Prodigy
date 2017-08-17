@@ -13,11 +13,13 @@ Educational option trading platforms are often to complex for newcomers to under
 3. Joe Hiner
 4. Tim Parkyn
 
-## Features
-![PCP !](https://media.giphy.com/media/IZuw52ndvmZji/giphy.gif)  
-
-
-![PCP 1](https://media.giphy.com/media/PJFVFhD3LVcfC/giphy.gif)
+## Features  
+  
+  ![PCP 1](https://media.giphy.com/media/IZuw52ndvmZji/giphy.gif)  
+  
+  ![PCP 2](https://media.giphy.com/media/PJFVFhD3LVcfC/giphy.gif)  
+    
+  ![PCP 3](https://media.giphy.com/media/Jnpcnh9axGwCc/giphy.gif)
 
 
 ## Simplification
