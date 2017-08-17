@@ -1,19 +1,19 @@
-![PCP Logo](Screen Shot 2017-07-11 at 4.19.27 PM.png =300x)
+## PutCall Prodigy
 
-## Objective
+### Objective
 Put Call Prodigy  aims to simplify and gamify options trading. Educates equities traders in the bare function of options contracts, incrementally advancing the complexity of technical indicators offered and options strategies.
 
-## The Problem
+### The Problem
 Educational option trading platforms are often to complex for newcomers to understand. We saw an opportunity to introduce our users to a simplified educational platform where they will not be intimidated by the introduction of complex topics
 
 
-## The Team
+### The Team
 1. Joanna Joseph
 2. Peter Mueller
 3. Joe Hiner
 4. Tim Parkyn
 
-## Features  
+### Features  
   * New user creation and authentication
   * JQuery and AJAX used on form transition and data entry to PostgreSQL database
    
@@ -35,10 +35,10 @@ Educational option trading platforms are often to complex for newcomers to under
     ![PCP 4](https://media.giphy.com/media/KgARJu1iiwURG/giphy.gif)
 
 
-## Simplification 
+### Simplification 
 To simplify the educational presentation, we limited the amount of underlying assets in our options contracts, eliminated portfolio building and did not include option premiums for ease of understanding.
 
-## Gamification
+### Gamification
 To gamify options trading we reduced the time intervals of options contracts to be under 1 hour to provide instantaneous feedback
 
 
