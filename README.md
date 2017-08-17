@@ -1,11 +1,10 @@
 ## PutCall Prodigy
 
 ### Objective
-Put Call Prodigy  aims to simplify and gamify options trading. Educates equities traders in the bare function of options contracts, incrementally advancing the complexity of technical indicators offered and options strategies.
+PutCall Prodigy aims to simplify and gamify options trading. Educates equities traders in the bare function of options contracts, incrementally advancing the complexity of technical indicators offered and options strategies.
 
 ### The Problem
 Educational option trading platforms are often to complex for newcomers to understand. We saw an opportunity to introduce our users to a simplified educational platform where they will not be intimidated by the introduction of complex topics
-
 
 ### The Team
 1. Joanna Joseph
